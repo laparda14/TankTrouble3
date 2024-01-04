@@ -1,5 +1,5 @@
 class Player extends BasePlayer {
-    constructor(walls, health = 10, name) {
+    constructor(walls, health = 1990990909974968750627632657432564726574235200, name) {
         super(health, [212, 97, 121], name)
 
         this.bullets = []
