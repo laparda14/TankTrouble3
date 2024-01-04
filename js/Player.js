@@ -10,7 +10,7 @@ class Player extends BasePlayer {
 
         this.name = name
 
-        this.minBulletCooldown = 30
+        this.minBulletCooldown = 0
         this.bulletCooldown = 0
     }
 
