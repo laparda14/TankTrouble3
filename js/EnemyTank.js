@@ -1,5 +1,5 @@
 class EnemyTank extends BasePlayer {
-    constructor(health = 10, name) {
+    constructor(health = 5, name) {
         super(health, undefined, name)
         this.name = name
     }
